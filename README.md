@@ -1,2 +1,2 @@
 # RocketDesign
-HTML5/CSS Flat Responsive Website 
+HTML5/CSS Flat Responsive Website Tutorial
